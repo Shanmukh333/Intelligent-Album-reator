@@ -1,4 +1,4 @@
-# Intelligent-Album-reator
+# Intelligent-Album-Creator
 Image processing using convolutional nearal networks.
 INTELLIGENT ALBUM CREATOR
 INTRODUCTION
